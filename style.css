@@ -1,0 +1,150 @@
+
+
+
+.container {
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    font-weight:600;
+    
+    
+}
+
+.logo img {
+    height: 60px;
+    width: 50px;
+}
+.header {
+    
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top:30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 40px;
+   
+    
+}
+
+a {
+    margin: 15px;
+}
+
+.text {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align:left;
+    
+}
+
+.text .main {
+    font-size:48px;
+    font-weight: 900;
+    color:#F9FAF8;
+}
+
+.text .second {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button {
+    margin-left: 200px;
+    background-color: #3882F6;
+    color: white;
+}
+
+.mypic img {
+    width: 160px;
+    height: 200px;
+}
+
+.outer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    padding-right:200px;
+    
+}
+
+.outouter {
+    display: flex;
+    justify-content:space-around;
+    padding-bottom: 50px;
+}
+
+.learning img {
+    width: 580px;
+    height: 360px;
+}
+
+.culture img {
+    width: 580px;
+    height: 360px;
+}
+
+.erotic img {
+    width: 580px;
+    height: 360px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main {
+    text-align: center;
+}
+
+.culture {
+    text-align: center;
+}
+.erotic {
+    text-align: center;
+}
+.learning {
+    text-align: center
+}
+
+.container2 {
+    text-align:left;
+    padding-left: 750px;
+    background-color: #e5e7eb;
+    
+    
+}
+
+.container2 .main2 {
+   font-size: 36px;
+   color: #1F2937;
+   font-style:italic;
+   font-weight:200;
+   
+}
+.container3 {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 28px;
+    margin-left: 700px;
+    margin-right: 700px;
+    align-items: center;
+    justify-content:space-around;
+
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.main1 {
+    text-align: center;
+}
+
